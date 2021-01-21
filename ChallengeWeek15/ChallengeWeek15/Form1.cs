@@ -19,7 +19,7 @@ namespace ChallengeWeek15
 
         private void buttonSatu_Click(object sender, EventArgs e)
         {
-            listViewTampilan.Items.Add("1");
+            
         }
     }
 }
